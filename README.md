@@ -5,11 +5,11 @@ Configured with **SSH**, **EmulationStation**, and optimized file management.
 ---
 
 ## 📸 Screenshots
-![Arcade Setup](assets/image.jpeg)
-![Menu Interface](assets/image1.jpeg)
-![Game List](assets/image2.jpeg)
-![Wiring and Components](assets/image4.jpeg)
-![Final Build](assets/image5.jpeg)
+![Arcade Setup](assets/image.jpg)
+![Menu Interface](assets/image1.jpg)
+![Game List](assets/image2.jpg)
+![Wiring and Components](assets/image4.jpg)
+![Final Build](assets/image5.jpg)
 
 ---
 
