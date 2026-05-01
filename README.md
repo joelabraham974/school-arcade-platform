@@ -1,10 +1,10 @@
-# 🎮 School Arcade Platform
+# School Arcade Platform
 A Raspberry Pi-based arcade system built for students, designed for easy access and fun gaming experiences.  
 Configured with **SSH**, **EmulationStation**, and optimized file management.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 ![Arcade Setup](assets/image.jpg)
 ![Menu Interface](assets/image1.jpg)
 ![Game List](assets/image2.jpg)
@@ -13,7 +13,7 @@ Configured with **SSH**, **EmulationStation**, and optimized file management.
 
 ---
 
-## 🔧 Features
+## Features
 - Raspberry Pi-based arcade system
 - SSH-enabled for secure remote file management
 - EmulationStation for intuitive game navigation
@@ -21,7 +21,7 @@ Configured with **SSH**, **EmulationStation**, and optimized file management.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Raspberry Pi Lite OS
 - EmulationStation
 - Bash scripting
@@ -29,7 +29,7 @@ Configured with **SSH**, **EmulationStation**, and optimized file management.
 
 ---
 
-## 👨‍💻 My Role
+## My Role
 - Enabled SSH for secure file transfers
 - Transferred and organized ROM files
 - Configured EmulationStation for a seamless user experience
